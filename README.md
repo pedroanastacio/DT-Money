@@ -44,13 +44,13 @@ https://user-images.githubusercontent.com/45208073/193827865-b96790ce-3374-46c3-
     <img align="center" alt="Styled Components" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
    </a>
    <a href="https://react-hook-form.com/">
-    <img align="center" alt="React hook form" height="30" width="30" src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4">
+    <img align="center" alt="React Hook Form" height="40" width="40" src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4">
    </a>
    <a href="https://github.com/colinhacks/zod">
-    <img align="center" alt="Zod" height="30" width="40" src="https://github.com/colinhacks/zod/blob/master/logo.svg">
+    <img align="center" alt="Zod" height="35" width="35" src="https://github.com/colinhacks/zod/blob/master/logo.svg">
    </a>
-     <a href="https://axios-http.com/ptbr/docs/intro">
-    <img align="center" alt="Axios" height="15" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1280px-  Axios_%28computer_library%29_logo.svg.png">
+   <a href="https://axios-http.com/ptbr/docs/intro">
+    <img align="center" alt="Axios" height="40" width="40" src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4">
    </a>
     <a href="https://github.com/typicode/json-server">
     <img align="center" alt="Json Server" height="30" width="60" src="https://miro.medium.com/max/830/1*0yknPnKsJhK9B3nFIaknUw.png">
