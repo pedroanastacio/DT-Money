@@ -12,9 +12,9 @@ https://user-images.githubusercontent.com/45208073/193827841-33cee3d4-1bbd-49de-
 https://user-images.githubusercontent.com/45208073/193827865-b96790ce-3374-46c3-93d9-4a8b9c153d8b.mp4
 
 ## :clipboard: Features
-- Registration of new income or expenses;
-- Total amount of income and expenses;
-- Value of the total balance;
+- Registration of new incomes or expenses;
+- Displays the total amount of incomes and expenses;
+- Displays the total balance amount;
 - Displays the date of the last income and last expense registered;
 - Listing of incomes and expenses;
 - Search for incomes and expenses;
